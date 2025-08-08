@@ -1,4 +1,12 @@
 <!-- markdownlint-disable MD041 -->
+>[!IMPORTANT]
+> https://phabricator.wikimedia.org/T400681
+>
+> This repository was forked to assure access to older charts used for wikibase.cloud deployments. Relevant packages are mirrored here: https://github.com/orgs/wbstack/packages
+> 
+> Same goes for this other repo, which is already not used anymore: https://github.com/wbstack/bitnami-charts
+> 
+
 <p align="center">
     <img width="400px" height=auto src="https://dyltqmyl993wv.cloudfront.net/bitnami/bitnami-by-vmware.png" />
 </p>
